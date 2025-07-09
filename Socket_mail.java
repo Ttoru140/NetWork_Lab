@@ -11,7 +11,7 @@ class SendMail {
   @SuppressWarnings("resource")
 public static void main(String argv[]) throws Exception {
     String user = "s2111076140@ru.ac.bd";  //email address
-    String pass = "xyz"; //pass	
+    String pass = "gumf drho qrvy gcif"; //pass	
     
     String username =new String(Base64.getEncoder().encode(user.getBytes()));
     String password = new String(Base64.getEncoder().encode(pass.getBytes()));
